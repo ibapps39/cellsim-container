@@ -11,7 +11,7 @@ Make a folder named `cellsim-container/`
 Inside it, place:
 
 1. The following Containerfile
-2. A subfolder named rpms/ containing:
+2. A subfolder named `rpms/` containing:
     - `systemsim-cell-3.1-25.f9.x86_64.rpm`
     - `sysroot_image-3.1-1.noarch.rpm`
     - `tcl-8.5.1-4.fc9.x86_64.rpm`
